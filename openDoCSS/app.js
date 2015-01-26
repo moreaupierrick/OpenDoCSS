@@ -31,5 +31,4 @@ WARNING :  Loading time is unknown !!!
 
 	loadCss("../css/openDoCSS.css");
 
-
 }());
