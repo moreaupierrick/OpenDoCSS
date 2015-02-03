@@ -30,5 +30,7 @@ WARNING :  Loading time is unknown !!!
 
 
 	loadCss("../css/openDoCSS.css");
+	loadCss("../css/global/size.css");
+	loadCss("../css/global/feel.css");
 
 }());

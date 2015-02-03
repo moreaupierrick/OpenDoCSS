@@ -1,0 +1,14 @@
+body {
+	font-family: "Arvo","Open Sans","Trebuchet MS";
+}
+
+small {
+	color : rgb(175,175,175);
+}
+
+p {
+	text-align: justify;
+	text-indent: 30px;
+	line-height: 25px;
+
+}
